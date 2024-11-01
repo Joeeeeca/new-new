@@ -1140,6 +1140,7 @@ min-height: 100vh;
   }
   .testimonial-video-container video {
     max-width:320px;
+       max-height:320px;
   }
   .testimonial-content p {
     margin-bottom:40px;
