@@ -1134,10 +1134,7 @@ min-height: 100vh;
 }
 
 @media (min-width: 1024px) {
-  .testimonial-section {
-    min-height:auto;
-    max-height:100%;
-  }
+
   .testimonial-video-container video {
     max-width:320px;
        max-height:320px;
